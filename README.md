@@ -29,3 +29,8 @@
 - CMD + click
 
 Behavior Changes
+
+
+## Diff Struct and Class
+- Struct No Inheritance
+- Struct are Value Types, Classes are Reference Types
